@@ -1,2 +1,4 @@
-print('hi')
+Hi
+
+how are you
 
