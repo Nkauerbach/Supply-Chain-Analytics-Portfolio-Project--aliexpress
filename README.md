@@ -2,7 +2,9 @@ Data
 (data sourced from Kaggle, analyzed and cleaned in Excel)
 
   Files
+  
   Raw Data (raw_aliexpress_pet_supplies_data)
+  
   Cleaned Data, Statistical Analysis & Stagnant Visualizations for reference (aliespress_pet_supplies_case.xlsx)
 
 Supplier Scorecard
