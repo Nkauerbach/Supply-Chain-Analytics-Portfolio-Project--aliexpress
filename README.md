@@ -23,5 +23,6 @@ Visualization
 
   Files 
 
-  
+  Adjustable Scatter/ Bubble Chart (aliexpressPowerful.pbit)
+    relates star rating, conversion rate, and quantity sold 
 
