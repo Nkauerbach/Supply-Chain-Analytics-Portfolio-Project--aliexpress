@@ -11,5 +11,6 @@ Supplier Scorecard
 (acsessed through anaconda.cloud, coded with Python in a Jupyter notebook/ dataframe)
 
   Files
-  
+
+  Output of Supplier Scorecard Dataframe (scorecard_output.
 
