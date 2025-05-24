@@ -8,9 +8,20 @@ Data
   Cleaned Data, Statistical Analysis & Stagnant Visualizations for reference (aliespress_pet_supplies_case.xlsx)
 
 Supplier Scorecard
-(acsessed through anaconda.cloud, coded with Python in a Jupyter notebook/ dataframe)
+(acsessed through Anaconda.cloud, coded with Python in a Jupyter notebook/ dataframe)
 
   Files
 
-  Output of Supplier Scorecard Dataframe (scorecard_output.
+  Output of Supplier Scorecard Dataframe (scorecard_output.docs)
+
+  Full Scorecard Stagnant
+
+  Full Scorecard Interactive
+
+Visualization
+(created with Excel and Power BI)
+
+  Files 
+
+  
 
