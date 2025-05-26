@@ -6,11 +6,14 @@ Data
 Supplier Scorecard
 (acsessed through Anaconda.cloud, coded with Python in a Jupyter notebook/ dataframe)
 
-  Files include: Output of Supplier Scorecard Dataframe (scorecard_output.docs), Full Scorecard Stagnant (
-https://github.com/Nkauerbach/Supply-Chain-Analytics-Portfolio-Project--aliexpress/tree/main
-  Full Scorecard Interactive
+  Files include: Output of Supplier Scorecard Dataframe (scorecard_output.docs), Full Scorecard Stagnant (premium_supplier_scorecard(1).pdf), Full Scorecard Interactive (
 
 Visualization
 (created with Excel and Power BI)
 
   Files include: Adjustable Scatter/ Bubble Chart that relates star rating, conversion rates, and quantity sold (aliexpressPowerful.pbit)
+
+Executive Summary
+(Microsoft Powerpoint)
+
+  Files include: 13 slide comprehensive summary with visuals (executive_summary.pptx)
